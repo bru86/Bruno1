@@ -1,7 +1,7 @@
 {
   "name": "LiveContainer",
   "identifier": "com.kdt.livecontainer",
-  "sourceURL": "https://raw.githubusercontent.com/OWNER/REPO/main/source.json",
+  "sourceURL": "https://raw.githubusercontent.com/bru86/Bruno1/main/source.json",
   "apps": [
     {
       "name": "LiveContainer",
@@ -9,16 +9,16 @@
       "developerName": "Kdt",
       "subtitle": "LiveContainer",
       "localizedDescription": "LiveContainer ist eine iOS-App, mit der sich mehrere Instanzen einer Anwendung unabhängig voneinander ausführen lassen. Ideal zum Testen, für parallele Accounts oder zum sicheren Trennen von Umgebungen.",
-      "iconURL": "https://raw.githubusercontent.com/OWNER/REPO/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bru86/Bruno1/main/icon.png",
       "tintColor": "#007AFF",
       "screenshotURLs": [],
       "versions": [
         {
           "version": "3.6.1",
           "buildVersion": "3.6.1",
-          "date": "2025-09-05T21:22:07.376020+02:00",
+          "date": "2025-09-05T20:00:00+00:00",
           "size": 4232092,
-          "downloadURL": "https://github.com/OWNER/REPO/releases/latest/download/LiveContainer.ipa",
+          "downloadURL": "https://github.com/bru86/Bruno1/releases/latest/download/LiveContainer.ipa",
           "localizedDescription": "Initial AltStore release of LiveContainer.",
           "minOSVersion": "15.0"
         }
